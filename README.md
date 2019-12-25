@@ -1,2 +1,2 @@
-# skyblock-in-a-command
+# Skyblock in a command
 Minecraft Skyblock in a command (1.15)
